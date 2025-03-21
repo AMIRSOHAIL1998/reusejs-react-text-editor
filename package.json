@@ -1,0 +1,9 @@
+{
+  "name": "reusejs-react-text-editor",
+  "version": "1.0.0",
+  "description": "This repository contains the compiled CDN-ready JS and CSS files for the reusejs-react-text-editor package.",
+  "main": "index.css",
+  "repository": "git@github.com:AMIRSOHAIL1998/reusejs-react-text-editor.git",
+  "author": "Md Amir Sohail <amir@betalectic.com>",
+  "license": "MIT"
+}
